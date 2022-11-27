@@ -1,0 +1,10 @@
+.navbar-nav > li{
+    margin-left:30px;
+    margin-right:30px;
+  }
+
+  .custom{
+    background-color:rgb(0, 0, 141);
+    border-color: rgb(0, 0, 141);
+    color: #fff;
+  }
